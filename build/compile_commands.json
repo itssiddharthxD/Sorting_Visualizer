@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/C++/raylib/sorting_adv/sorting/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\Sorting_Visualizer.dir\\src\\main.cpp.obj -c D:\\C++\\raylib\\sorting_adv\\sorting\\src\\main.cpp",
+  "file": "D:/C++/raylib/sorting_adv/sorting/src/main.cpp",
+  "output": "D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/Sorting_Visualizer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/C++/raylib/sorting_adv/sorting/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\Sorting_Visualizer.dir\\src\\sorting\\BubbleSort.cpp.obj -c D:\\C++\\raylib\\sorting_adv\\sorting\\src\\sorting\\BubbleSort.cpp",
+  "file": "D:/C++/raylib/sorting_adv/sorting/src/sorting/BubbleSort.cpp",
+  "output": "D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/Sorting_Visualizer.dir/src/sorting/BubbleSort.cpp.obj"
+},
+{
+  "directory": "D:/C++/raylib/sorting_adv/sorting/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\Sorting_Visualizer.dir\\src\\sorting\\SelectionSort.cpp.obj -c D:\\C++\\raylib\\sorting_adv\\sorting\\src\\sorting\\SelectionSort.cpp",
+  "file": "D:/C++/raylib/sorting_adv/sorting/src/sorting/SelectionSort.cpp",
+  "output": "D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/Sorting_Visualizer.dir/src/sorting/SelectionSort.cpp.obj"
+},
+{
+  "directory": "D:/C++/raylib/sorting_adv/sorting/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\Sorting_Visualizer.dir\\src\\sorting\\InsertionSort.cpp.obj -c D:\\C++\\raylib\\sorting_adv\\sorting\\src\\sorting\\InsertionSort.cpp",
+  "file": "D:/C++/raylib/sorting_adv/sorting/src/sorting/InsertionSort.cpp",
+  "output": "D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/Sorting_Visualizer.dir/src/sorting/InsertionSort.cpp.obj"
+},
+{
+  "directory": "D:/C++/raylib/sorting_adv/sorting/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\Sorting_Visualizer.dir\\src\\sorting\\MergeSort.cpp.obj -c D:\\C++\\raylib\\sorting_adv\\sorting\\src\\sorting\\MergeSort.cpp",
+  "file": "D:/C++/raylib/sorting_adv/sorting/src/sorting/MergeSort.cpp",
+  "output": "D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/Sorting_Visualizer.dir/src/sorting/MergeSort.cpp.obj"
+},
+{
+  "directory": "D:/C++/raylib/sorting_adv/sorting/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\Sorting_Visualizer.dir\\src\\sorting\\QuickSort.cpp.obj -c D:\\C++\\raylib\\sorting_adv\\sorting\\src\\sorting\\QuickSort.cpp",
+  "file": "D:/C++/raylib/sorting_adv/sorting/src/sorting/QuickSort.cpp",
+  "output": "D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/Sorting_Visualizer.dir/src/sorting/QuickSort.cpp.obj"
+},
+{
+  "directory": "D:/C++/raylib/sorting_adv/sorting/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\Sorting_Visualizer.dir\\src\\visualizer\\Visualizer.cpp.obj -c D:\\C++\\raylib\\sorting_adv\\sorting\\src\\visualizer\\Visualizer.cpp",
+  "file": "D:/C++/raylib/sorting_adv/sorting/src/visualizer/Visualizer.cpp",
+  "output": "D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/Sorting_Visualizer.dir/src/visualizer/Visualizer.cpp.obj"
+},
+{
+  "directory": "D:/C++/raylib/sorting_adv/sorting/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\Sorting_Visualizer.dir\\src\\ui\\menu.cpp.obj -c D:\\C++\\raylib\\sorting_adv\\sorting\\src\\ui\\menu.cpp",
+  "file": "D:/C++/raylib/sorting_adv/sorting/src/ui/menu.cpp",
+  "output": "D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/Sorting_Visualizer.dir/src/ui/menu.cpp.obj"
+}
+]

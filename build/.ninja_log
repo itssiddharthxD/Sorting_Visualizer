@@ -1,0 +1,19 @@
+# ninja log v7
+8	1468	8040106574531713	CMakeFiles/Sorting_Visualizer.dir/src/main.cpp.obj	4994ba04d27ae0fa
+1469	1976	8040106589139380	Sorting_Visualizer.exe	82bcb007d28eaa66
+17	418	8039355895819199	CMakeFiles/Sorting_Visualizer.dir/src/sorting/BubbleSort.cpp.obj	9855cadc6230275c
+58	567	8039355896226194	CMakeFiles/Sorting_Visualizer.dir/src/visualizer/Visualizer.cpp.obj	6a9ad6684a2bb9a
+65	255	8039355896296148	CMakeFiles/Sorting_Visualizer.dir/src/ui/menu.cpp.obj	f5494bd54cdb1d33
+33	367	8039355895966304	CMakeFiles/Sorting_Visualizer.dir/src/sorting/InsertionSort.cpp.obj	458e645369fca5f3
+24	381	8039355895874201	CMakeFiles/Sorting_Visualizer.dir/src/sorting/SelectionSort.cpp.obj	812abb1ea58fd90b
+41	481	8039355896046318	CMakeFiles/Sorting_Visualizer.dir/src/sorting/MergeSort.cpp.obj	5ea946fc55b8e578
+49	592	8039355896126273	CMakeFiles/Sorting_Visualizer.dir/src/sorting/QuickSort.cpp.obj	cb66b110cf0f9de2
+7	37	8039355893506900	clean	7cad43144eea5c8
+8	1390	8040885213921091	CMakeFiles/Sorting_Visualizer.dir/src/main.cpp.obj	4994ba04d27ae0fa
+1418	2143	8040885228025541	Sorting_Visualizer.exe	82bcb007d28eaa66
+8	1000	8040885586775631	CMakeFiles/Sorting_Visualizer.dir/src/main.cpp.obj	4994ba04d27ae0fa
+1000	1259	8040885596701876	Sorting_Visualizer.exe	82bcb007d28eaa66
+8	873	8040885980202134	CMakeFiles/Sorting_Visualizer.dir/src/main.cpp.obj	4994ba04d27ae0fa
+874	1084	8040885988862810	Sorting_Visualizer.exe	82bcb007d28eaa66
+8	699	8040886588848238	CMakeFiles/Sorting_Visualizer.dir/src/main.cpp.obj	4994ba04d27ae0fa
+700	946	8040886595757676	Sorting_Visualizer.exe	82bcb007d28eaa66

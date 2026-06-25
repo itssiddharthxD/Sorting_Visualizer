@@ -1,0 +1,3 @@
+D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/Sorting_Visualizer.dir
+D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/edit_cache.dir
+D:/C++/raylib/sorting_adv/sorting/build/CMakeFiles/rebuild_cache.dir
